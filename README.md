@@ -2,9 +2,9 @@
 
 Project license:
 
-    https://gitlab.eng.vmware.com/landerr/license/-/raw/master/project.txt
+    https://raw.githubusercontent.com/lander2k2/license/master/project.txt
 
 Source header:
 
-    https://gitlab.eng.vmware.com/landerr/license/-/raw/master/source-header.txt
+    https://raw.githubusercontent.com/lander2k2/license/master/source-header.txt
 
